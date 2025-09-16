@@ -45,12 +45,6 @@ data/*.tar.gz
 models/
 !models/.gitkeep
 
-# Results
-results/
-
-# Experiments
-experiments/
-
 # Logs
 *.log
 logs/
