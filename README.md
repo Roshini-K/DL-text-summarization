@@ -114,3 +114,7 @@ pytest tests/test_preprocessing.py -v
 ```bash
 pytest --cov=src tests/
 ```
+
+## UI Results
+![Output 1](results/img1.JPG)  
+![Output 2](results/img2.JPG)
